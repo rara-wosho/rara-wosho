@@ -16,8 +16,10 @@
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rara-wosho&locale=en&hide_title=false&layout=compact&card_width=400&card_height=500&langs_count=8&order=1&bg_color=15131C&text_color=C1B1FF&border_color=322D5B" alt="languages graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rara-wosho&locale=en&hide_title=false&layout=compact&card_width=300&card_height=500&langs_count=8&order=1&bg_color=15131C&text_color=C1B1FF&border_color=322D5B" alt="languages graph" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rara-wosho&radius=7&theme=material-palenight&bg_color=15131C&text_color=ffffff&area=true&order=5&hide_title=true&hide_border=true" height="240" alt="activity-graph graph" />
