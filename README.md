@@ -1,4 +1,5 @@
-<h2 align="center">Rael De Vera</h2>
+<img src="/assets/Group 3.png" width='100%' alt="GitHub Banner" />
+<h3 align="center">📧 Raeldevprojects@gmail.com</h3>
 <br />
 <div align="center">
   
