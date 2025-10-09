@@ -13,15 +13,15 @@
  <br />
  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rara-wosho&theme=material-palenight&currStreakNum=ffffff&background=15131C&border=40317A&currStreakLabel=C1B1FF&fire=F1E05A&ring=C693EA&dates=C1B1FF&sideNums=ffffff&sideLabels=C1B1FF&stroke=322D5B" alt="Github Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rara-wosho&theme=material-palenight&currStreakNum=ffffff&background=0C1624&border=102758&currStreakLabel=54a7ff&fire=ffd75e&ring=54a7ff&dates=54a7ff&sideNums=ffffff&sideLabels=54a7ff&stroke=54a7ff" alt="Github Streak" />
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rara-wosho&locale=en&hide_title=false&layout=compact&card_width=300&card_height=500&langs_count=8&order=1&bg_color=15131C&text_color=C1B1FF&border_color=322D5B" alt="languages graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rara-wosho&locale=en&hide_title=false&layout=compact&card_width=495&card_height=500&langs_count=8&order=1&bg_color=0C1624&text_color=54a7ff&border_color=102758" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rara-wosho&radius=7&theme=material-palenight&bg_color=15131C&text_color=ffffff&area=true&order=5&hide_title=true&hide_border=true" height="240" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rara-wosho&radius=7&theme=react&bg_color=0C1624&text_color=ffffff&area=true&order=5&hide_title=false&hide_border=true" height="240" alt="activity-graph graph" />
 </div>
