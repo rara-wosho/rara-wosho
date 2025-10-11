@@ -1,5 +1,5 @@
 
-<h3 align="center">Rael De Vera</h3>
+<h2 align="center">RAEL DE VERA</h2>
 <br />
 <div align="center">
   
