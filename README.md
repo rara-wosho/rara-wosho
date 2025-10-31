@@ -23,9 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rara-wosho&theme=material-palenight&currStreakNum=ffffff&background=0C1624&border=102758&currStreakLabel=54a7ff&fire=ffd75e&ring=54a7ff&dates=54a7ff&sideNums=ffffff&sideLabels=54a7ff&stroke=54a7ff" alt="Github Streak" />
 </div>
 
-<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rara-wosho&radius=7&theme=react&bg_color=0C1624&text_color=ffffff&area=true&order=5&hide_title=false&hide_border=true" height="240" alt="activity-graph graph" />
 </div>
--->
 
